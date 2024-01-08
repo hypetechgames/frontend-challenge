@@ -113,7 +113,8 @@ Para obtê-lo:
 **3 - Extraia o token obtido:**
 ~~https://hypetech-games-ui-developer.up.railway.app/~~**44cdf4cec80508c531f71a1929d591c8**
 
-![Como extrair o token obtido](https://i.ibb.co/tsC5BJ9/Screen-Recording-2024-01-08-at-17-59-36.gif)
+
+Exemplo: https://i.ibb.co/fp07Mxs/Screen-Recording-2024-01-08-at-17-59-36.gif
 
 
 **Obs:** Para cada jogo que desejar carregar, você deve gerar um novo token, alterando o parâmetro "game" da requisição:
