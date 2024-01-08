@@ -1,0 +1,514 @@
+{
+	"textures": [
+		{
+			"image": "Grau-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1851,
+				"h": 1952
+			},
+			"scale": 0.83333,
+			"frames": [
+				{
+					"filename": "motociclista-transicao-grau-B  (9)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 472,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 235,
+						"y": 83,
+						"w": 472,
+						"h": 431
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 472,
+						"h": 431
+					}
+				},
+				{
+					"filename": "motociclista-transicao-grau-B  (10)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 474,
+						"h": 429
+					},
+					"spriteSourceSize": {
+						"x": 227,
+						"y": 86,
+						"w": 474,
+						"h": 429
+					},
+					"frame": {
+						"x": 472,
+						"y": 0,
+						"w": 474,
+						"h": 429
+					}
+				},
+				{
+					"filename": "motociclista-transicao-grau-B  (11)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 474,
+						"h": 422
+					},
+					"spriteSourceSize": {
+						"x": 212,
+						"y": 94,
+						"w": 474,
+						"h": 422
+					},
+					"frame": {
+						"x": 946,
+						"y": 0,
+						"w": 474,
+						"h": 422
+					}
+				},
+				{
+					"filename": "motociclista-transicao-grau-A  (2)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 431,
+						"h": 380
+					},
+					"spriteSourceSize": {
+						"x": 368,
+						"y": 131,
+						"w": 431,
+						"h": 380
+					},
+					"frame": {
+						"x": 1420,
+						"y": 0,
+						"w": 431,
+						"h": 380
+					}
+				},
+				{
+					"filename": "motociclista-transicao-grau-A  (3)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 430,
+						"h": 361
+					},
+					"spriteSourceSize": {
+						"x": 368,
+						"y": 149,
+						"w": 430,
+						"h": 361
+					},
+					"frame": {
+						"x": 1420,
+						"y": 380,
+						"w": 430,
+						"h": 361
+					}
+				},
+				{
+					"filename": "motociclista-transicao-grau-B  (8)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 455,
+						"h": 430
+					},
+					"spriteSourceSize": {
+						"x": 293,
+						"y": 80,
+						"w": 455,
+						"h": 430
+					},
+					"frame": {
+						"x": 946,
+						"y": 422,
+						"w": 455,
+						"h": 430
+					}
+				},
+				{
+					"filename": "motociclista-transicao-grau-B  (7)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 450,
+						"h": 389
+					},
+					"spriteSourceSize": {
+						"x": 329,
+						"y": 119,
+						"w": 450,
+						"h": 389
+					},
+					"frame": {
+						"x": 1401,
+						"y": 741,
+						"w": 450,
+						"h": 389
+					}
+				},
+				{
+					"filename": "motociclista-grau-ciclo (15)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 468,
+						"h": 408
+					},
+					"spriteSourceSize": {
+						"x": 146,
+						"y": 134,
+						"w": 468,
+						"h": 408
+					},
+					"frame": {
+						"x": 472,
+						"y": 429,
+						"w": 468,
+						"h": 408
+					}
+				},
+				{
+					"filename": "motociclista-grau-ciclo (16)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 468,
+						"h": 408
+					},
+					"spriteSourceSize": {
+						"x": 146,
+						"y": 134,
+						"w": 468,
+						"h": 408
+					},
+					"frame": {
+						"x": 0,
+						"y": 431,
+						"w": 468,
+						"h": 408
+					}
+				},
+				{
+					"filename": "motociclista-grau-ciclo (14)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 468,
+						"h": 402
+					},
+					"spriteSourceSize": {
+						"x": 146,
+						"y": 134,
+						"w": 468,
+						"h": 402
+					},
+					"frame": {
+						"x": 468,
+						"y": 837,
+						"w": 468,
+						"h": 402
+					}
+				},
+				{
+					"filename": "motociclista-transicao-grau-B  (13)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 468,
+						"h": 402
+					},
+					"spriteSourceSize": {
+						"x": 175,
+						"y": 121,
+						"w": 468,
+						"h": 402
+					},
+					"frame": {
+						"x": 0,
+						"y": 839,
+						"w": 468,
+						"h": 402
+					}
+				},
+				{
+					"filename": "motociclista-transicao-grau-B  (4)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 430,
+						"h": 358
+					},
+					"spriteSourceSize": {
+						"x": 368,
+						"y": 152,
+						"w": 430,
+						"h": 358
+					},
+					"frame": {
+						"x": 936,
+						"y": 852,
+						"w": 430,
+						"h": 358
+					}
+				},
+				{
+					"filename": "motociclista-transicao-grau-B  (12)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 479,
+						"h": 415
+					},
+					"spriteSourceSize": {
+						"x": 187,
+						"y": 105,
+						"w": 479,
+						"h": 415
+					},
+					"frame": {
+						"x": 1366,
+						"y": 1130,
+						"w": 479,
+						"h": 415
+					}
+				},
+				{
+					"filename": "motociclista-transicao-grau-B  (2)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 430,
+						"h": 357
+					},
+					"spriteSourceSize": {
+						"x": 368,
+						"y": 152,
+						"w": 430,
+						"h": 357
+					},
+					"frame": {
+						"x": 936,
+						"y": 1210,
+						"w": 430,
+						"h": 357
+					}
+				},
+				{
+					"filename": "motociclista-transicao-grau-B  (3)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 431,
+						"h": 357
+					},
+					"spriteSourceSize": {
+						"x": 368,
+						"y": 152,
+						"w": 431,
+						"h": 357
+					},
+					"frame": {
+						"x": 1366,
+						"y": 1545,
+						"w": 431,
+						"h": 357
+					}
+				},
+				{
+					"filename": "motociclista-transicao-grau-B  (5)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 430,
+						"h": 357
+					},
+					"spriteSourceSize": {
+						"x": 368,
+						"y": 152,
+						"w": 430,
+						"h": 357
+					},
+					"frame": {
+						"x": 468,
+						"y": 1239,
+						"w": 430,
+						"h": 357
+					}
+				},
+				{
+					"filename": "motociclista-transicao-grau-B  (6)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 431,
+						"h": 356
+					},
+					"spriteSourceSize": {
+						"x": 368,
+						"y": 155,
+						"w": 431,
+						"h": 356
+					},
+					"frame": {
+						"x": 898,
+						"y": 1567,
+						"w": 431,
+						"h": 356
+					}
+				},
+				{
+					"filename": "motociclista-transicao-grau-B  (1)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 430,
+						"h": 356
+					},
+					"spriteSourceSize": {
+						"x": 368,
+						"y": 154,
+						"w": 430,
+						"h": 356
+					},
+					"frame": {
+						"x": 0,
+						"y": 1596,
+						"w": 430,
+						"h": 356
+					}
+				},
+				{
+					"filename": "motociclista-transicao-grau-A  (4)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 432,
+						"h": 342
+					},
+					"spriteSourceSize": {
+						"x": 367,
+						"y": 168,
+						"w": 432,
+						"h": 342
+					},
+					"frame": {
+						"x": 0,
+						"y": 1241,
+						"w": 432,
+						"h": 342
+					}
+				},
+				{
+					"filename": "motociclista-transicao-grau-A  (7)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 432,
+						"h": 342
+					},
+					"spriteSourceSize": {
+						"x": 367,
+						"y": 168,
+						"w": 432,
+						"h": 342
+					},
+					"frame": {
+						"x": 0,
+						"y": 1241,
+						"w": 432,
+						"h": 342
+					}
+				},
+				{
+					"filename": "motociclista-transicao-grau-A  (5)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 431,
+						"h": 342
+					},
+					"spriteSourceSize": {
+						"x": 367,
+						"y": 168,
+						"w": 431,
+						"h": 342
+					},
+					"frame": {
+						"x": 430,
+						"y": 1596,
+						"w": 431,
+						"h": 342
+					}
+				}
+			]
+		},
+		{
+			"image": "Grau-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 431,
+				"h": 688
+			},
+			"scale": 0.83333,
+			"frames": [
+				{
+					"filename": "motociclista-transicao-grau-A  (6)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 431,
+						"h": 342
+					},
+					"spriteSourceSize": {
+						"x": 367,
+						"y": 168,
+						"w": 431,
+						"h": 342
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 431,
+						"h": 342
+					}
+				},
+				{
+					"filename": "motociclista-transicao-grau-A  (1)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 430,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 368,
+						"y": 164,
+						"w": 430,
+						"h": 346
+					},
+					"frame": {
+						"x": 0,
+						"y": 342,
+						"w": 430,
+						"h": 346
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:70332e2fefa4909c1fb07086de032b6d:756690823617703a7bd543d5ffdf6fe2:652d42245a7342eb18f0547f50804a8f$"
+	}
+}

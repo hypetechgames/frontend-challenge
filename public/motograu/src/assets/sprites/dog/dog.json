@@ -1,0 +1,482 @@
+{
+	"textures": [
+		{
+			"image": "dog.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1671,
+				"h": 509
+			},
+			"scale": 0.83333,
+			"frames": [
+				{
+					"filename": "cachorro-ciclo-A  (7)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 245,
+						"h": 181
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 115,
+						"w": 245,
+						"h": 181
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 245,
+						"h": 181
+					}
+				},
+				{
+					"filename": "cachorro-transicao-susto (9)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 203,
+						"h": 178
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 115,
+						"w": 203,
+						"h": 178
+					},
+					"frame": {
+						"x": 0,
+						"y": 181,
+						"w": 203,
+						"h": 178
+					}
+				},
+				{
+					"filename": "cachorro-transicao-susto (16)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 230,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 82,
+						"y": 121,
+						"w": 230,
+						"h": 142
+					},
+					"frame": {
+						"x": 0,
+						"y": 359,
+						"w": 230,
+						"h": 142
+					}
+				},
+				{
+					"filename": "cachorro-ciclo-B (17)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 202,
+						"h": 178
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 115,
+						"w": 202,
+						"h": 178
+					},
+					"frame": {
+						"x": 203,
+						"y": 181,
+						"w": 202,
+						"h": 178
+					}
+				},
+				{
+					"filename": "cachorro-ciclo-B (21)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 254,
+						"h": 172
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 90,
+						"w": 254,
+						"h": 172
+					},
+					"frame": {
+						"x": 245,
+						"y": 0,
+						"w": 254,
+						"h": 172
+					}
+				},
+				{
+					"filename": "cachorro-ciclo-A  (5)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 247,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 153,
+						"w": 247,
+						"h": 140
+					},
+					"frame": {
+						"x": 230,
+						"y": 359,
+						"w": 247,
+						"h": 140
+					}
+				},
+				{
+					"filename": "cachorro-transicao-susto (12)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 215,
+						"h": 171
+					},
+					"spriteSourceSize": {
+						"x": 86,
+						"y": 117,
+						"w": 215,
+						"h": 171
+					},
+					"frame": {
+						"x": 405,
+						"y": 172,
+						"w": 215,
+						"h": 171
+					}
+				},
+				{
+					"filename": "cachorro-ciclo-A  (2)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 252,
+						"h": 166
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 112,
+						"w": 252,
+						"h": 166
+					},
+					"frame": {
+						"x": 477,
+						"y": 343,
+						"w": 252,
+						"h": 166
+					}
+				},
+				{
+					"filename": "cachorro-ciclo-B (22)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 235,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 97,
+						"w": 235,
+						"h": 170
+					},
+					"frame": {
+						"x": 499,
+						"y": 0,
+						"w": 235,
+						"h": 170
+					}
+				},
+				{
+					"filename": "cachorro-ciclo-B (18)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 200,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 123,
+						"w": 200,
+						"h": 170
+					},
+					"frame": {
+						"x": 620,
+						"y": 170,
+						"w": 200,
+						"h": 170
+					}
+				},
+				{
+					"filename": "cachorro-ciclo-A  (3)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 249,
+						"h": 169
+					},
+					"spriteSourceSize": {
+						"x": 58,
+						"y": 126,
+						"w": 249,
+						"h": 169
+					},
+					"frame": {
+						"x": 729,
+						"y": 340,
+						"w": 249,
+						"h": 169
+					}
+				},
+				{
+					"filename": "cachorro-transicao-susto (10)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 200,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 123,
+						"w": 200,
+						"h": 170
+					},
+					"frame": {
+						"x": 734,
+						"y": 0,
+						"w": 200,
+						"h": 170
+					}
+				},
+				{
+					"filename": "cachorro-ciclo-B (20)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 209,
+						"h": 169
+					},
+					"spriteSourceSize": {
+						"x": 92,
+						"y": 129,
+						"w": 209,
+						"h": 169
+					},
+					"frame": {
+						"x": 820,
+						"y": 170,
+						"w": 209,
+						"h": 169
+					}
+				},
+				{
+					"filename": "cachorro-transicao-susto (13)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 220,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 96,
+						"y": 94,
+						"w": 220,
+						"h": 168
+					},
+					"frame": {
+						"x": 978,
+						"y": 339,
+						"w": 220,
+						"h": 168
+					}
+				},
+				{
+					"filename": "cachorro-ciclo-A  (6)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 240,
+						"h": 166
+					},
+					"spriteSourceSize": {
+						"x": 58,
+						"y": 127,
+						"w": 240,
+						"h": 166
+					},
+					"frame": {
+						"x": 934,
+						"y": 0,
+						"w": 240,
+						"h": 166
+					}
+				},
+				{
+					"filename": "cachorro-ciclo-A  (1)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 255,
+						"h": 164
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 113,
+						"w": 255,
+						"h": 164
+					},
+					"frame": {
+						"x": 1029,
+						"y": 166,
+						"w": 255,
+						"h": 164
+					}
+				},
+				{
+					"filename": "cachorro-transicao-susto (8)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 236,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 70,
+						"y": 121,
+						"w": 236,
+						"h": 160
+					},
+					"frame": {
+						"x": 1174,
+						"y": 0,
+						"w": 236,
+						"h": 160
+					}
+				},
+				{
+					"filename": "cachorro-transicao-susto (14)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 227,
+						"h": 159
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 84,
+						"w": 227,
+						"h": 159
+					},
+					"frame": {
+						"x": 1198,
+						"y": 330,
+						"w": 227,
+						"h": 159
+					}
+				},
+				{
+					"filename": "cachorro-ciclo-A  (4)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 246,
+						"h": 138
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 155,
+						"w": 246,
+						"h": 138
+					},
+					"frame": {
+						"x": 1425,
+						"y": 0,
+						"w": 246,
+						"h": 138
+					}
+				},
+				{
+					"filename": "cachorro-transicao-susto (11)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 184,
+						"h": 158
+					},
+					"spriteSourceSize": {
+						"x": 98,
+						"y": 136,
+						"w": 184,
+						"h": 158
+					},
+					"frame": {
+						"x": 1284,
+						"y": 160,
+						"w": 184,
+						"h": 158
+					}
+				},
+				{
+					"filename": "cachorro-transicao-susto (15)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 234,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 82,
+						"y": 93,
+						"w": 234,
+						"h": 140
+					},
+					"frame": {
+						"x": 1425,
+						"y": 318,
+						"w": 234,
+						"h": 140
+					}
+				},
+				{
+					"filename": "cachorro-ciclo-B (19)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 184,
+						"h": 157
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 137,
+						"w": 184,
+						"h": 157
+					},
+					"frame": {
+						"x": 1468,
+						"y": 138,
+						"w": 184,
+						"h": 157
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b776c15df1d96897a93037a54fe00d32:ab3d7fba4dcf4b503486f37c75f9c239:a575377b6411360f64a4de34be1e58c2$"
+	}
+}

@@ -1,0 +1,520 @@
+{
+	"textures": [
+		{
+			"image": "Crash.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1954,
+				"h": 1665
+			},
+			"scale": 0.83333,
+			"frames": [
+				{
+					"filename": "motociclista-crash-transicao-A  (7).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1067,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 392,
+						"y": 29,
+						"w": 536,
+						"h": 537
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 536,
+						"h": 537
+					},
+					"anchor": {
+						"x": 0.52734375,
+						"y": 0.5625
+					}
+				},
+				{
+					"filename": "motociclista-crash-transicao-A  (3).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1067,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 395,
+						"y": 33,
+						"w": 448,
+						"h": 464
+					},
+					"frame": {
+						"x": 1,
+						"y": 540,
+						"w": 448,
+						"h": 464
+					},
+					"anchor": {
+						"x": 0.52734375,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "motociclista-crash-transicao-A  (4).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1067,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 429,
+						"y": 36,
+						"w": 452,
+						"h": 455
+					},
+					"frame": {
+						"x": 539,
+						"y": 1,
+						"w": 452,
+						"h": 455
+					},
+					"anchor": {
+						"x": 0.52734375,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "motociclista-crash-transicao-A  (8).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1067,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 416,
+						"y": 177,
+						"w": 512,
+						"h": 389
+					},
+					"frame": {
+						"x": 993,
+						"y": 1,
+						"w": 512,
+						"h": 389
+					},
+					"anchor": {
+						"x": 0.52734375,
+						"y": 0.5625
+					}
+				},
+				{
+					"filename": "motociclista-crash-transicao-A  (5).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1067,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 450,
+						"y": 36,
+						"w": 447,
+						"h": 446
+					},
+					"frame": {
+						"x": 1,
+						"y": 1006,
+						"w": 447,
+						"h": 446
+					},
+					"anchor": {
+						"x": 0.52734375,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "motociclista-crash-transicao-A  (2).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1067,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 385,
+						"y": 56,
+						"w": 446,
+						"h": 442
+					},
+					"frame": {
+						"x": 1507,
+						"y": 1,
+						"w": 446,
+						"h": 442
+					},
+					"anchor": {
+						"x": 0.52734375,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "motociclista-crash-ciclo (14).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1067,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 416,
+						"y": 275,
+						"w": 512,
+						"h": 291
+					},
+					"frame": {
+						"x": 993,
+						"y": 392,
+						"w": 512,
+						"h": 291
+					},
+					"anchor": {
+						"x": 0.52734375,
+						"y": 0.5625
+					}
+				},
+				{
+					"filename": "motociclista-crash-transicao-A  (6).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1067,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 475,
+						"y": 37,
+						"w": 433,
+						"h": 458
+					},
+					"frame": {
+						"x": 1507,
+						"y": 445,
+						"w": 433,
+						"h": 458
+					},
+					"anchor": {
+						"x": 0.52734375,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "motociclista-crash-transicao-B (19).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1067,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 509,
+						"y": 356,
+						"w": 419,
+						"h": 210
+					},
+					"frame": {
+						"x": 1,
+						"y": 1454,
+						"w": 419,
+						"h": 210
+					},
+					"anchor": {
+						"x": 0.52734375,
+						"y": 0.5625
+					}
+				},
+				{
+					"filename": "motociclista-crash-transicao-A  (10).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1067,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 509,
+						"y": 269,
+						"w": 419,
+						"h": 293
+					},
+					"frame": {
+						"x": 539,
+						"y": 458,
+						"w": 419,
+						"h": 293
+					},
+					"anchor": {
+						"x": 0.52734375,
+						"y": 0.5625
+					}
+				},
+				{
+					"filename": "motociclista-crash-ciclo (15).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1067,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 411,
+						"y": 275,
+						"w": 517,
+						"h": 291
+					},
+					"frame": {
+						"x": 451,
+						"y": 753,
+						"w": 517,
+						"h": 291
+					},
+					"anchor": {
+						"x": 0.52734375,
+						"y": 0.5625
+					}
+				},
+				{
+					"filename": "motociclista-crash-transicao-A  (12).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1067,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 411,
+						"y": 275,
+						"w": 517,
+						"h": 291
+					},
+					"frame": {
+						"x": 451,
+						"y": 753,
+						"w": 517,
+						"h": 291
+					},
+					"anchor": {
+						"x": 0.52734375,
+						"y": 0.5625
+					}
+				},
+				{
+					"filename": "motociclista-crash-ciclo (16).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1067,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 392,
+						"y": 275,
+						"w": 536,
+						"h": 291
+					},
+					"frame": {
+						"x": 450,
+						"y": 1046,
+						"w": 536,
+						"h": 291
+					},
+					"anchor": {
+						"x": 0.52734375,
+						"y": 0.5625
+					}
+				},
+				{
+					"filename": "motociclista-crash-transicao-B (18).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1067,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 411,
+						"y": 315,
+						"w": 517,
+						"h": 251
+					},
+					"frame": {
+						"x": 988,
+						"y": 685,
+						"w": 517,
+						"h": 251
+					},
+					"anchor": {
+						"x": 0.52734375,
+						"y": 0.5625
+					}
+				},
+				{
+					"filename": "motociclista-crash-transicao-A  (13).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1067,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 392,
+						"y": 273,
+						"w": 536,
+						"h": 291
+					},
+					"frame": {
+						"x": 988,
+						"y": 938,
+						"w": 536,
+						"h": 291
+					},
+					"anchor": {
+						"x": 0.52734375,
+						"y": 0.5625
+					}
+				},
+				{
+					"filename": "motociclista-crash-transicao-A  (11).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1067,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 510,
+						"y": 273,
+						"w": 417,
+						"h": 293
+					},
+					"frame": {
+						"x": 1526,
+						"y": 905,
+						"w": 417,
+						"h": 293
+					},
+					"anchor": {
+						"x": 0.52734375,
+						"y": 0.5625
+					}
+				},
+				{
+					"filename": "motociclista-crash-transicao-A  (9).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1067,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 411,
+						"y": 286,
+						"w": 518,
+						"h": 278
+					},
+					"frame": {
+						"x": 450,
+						"y": 1339,
+						"w": 518,
+						"h": 278
+					},
+					"anchor": {
+						"x": 0.52734375,
+						"y": 0.5625
+					}
+				},
+				{
+					"filename": "motociclista-crash-transicao-B (17).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1067,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 416,
+						"y": 274,
+						"w": 512,
+						"h": 292
+					},
+					"frame": {
+						"x": 988,
+						"y": 1231,
+						"w": 512,
+						"h": 292
+					},
+					"anchor": {
+						"x": 0.52734375,
+						"y": 0.5625
+					}
+				},
+				{
+					"filename": "motociclista-crash-transicao-B (20).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1067,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 509,
+						"y": 356,
+						"w": 419,
+						"h": 210
+					},
+					"frame": {
+						"x": 1526,
+						"y": 1200,
+						"w": 419,
+						"h": 210
+					},
+					"anchor": {
+						"x": 0.52734375,
+						"y": 0.5625
+					}
+				},
+				{
+					"filename": "motociclista-crash-transicao-B (21).png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1067,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 509,
+						"y": 356,
+						"w": 419,
+						"h": 210
+					},
+					"frame": {
+						"x": 1502,
+						"y": 1412,
+						"w": 419,
+						"h": 210
+					},
+					"anchor": {
+						"x": 0.52734375,
+						"y": 0.5625
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:6163c54da92cb984f0220d6ddb323721:995b3d58e11845ba667e28777cf8fa7e:575a1151dc1de4ff75ab7fd09ccbbb4f$"
+	}
+}

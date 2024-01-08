@@ -1,0 +1,377 @@
+{
+	"textures": [
+		{
+			"image": "Entrada-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1698,
+				"h": 1698
+			},
+			"scale": 0.83333,
+			"frames": [
+				{
+					"filename": "motociclista-entrada  (1)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 383
+					},
+					"spriteSourceSize": {
+						"x": 370,
+						"y": 128,
+						"w": 425,
+						"h": 383
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 383
+					}
+				},
+				{
+					"filename": "motociclista-entrada  (2)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 383
+					},
+					"spriteSourceSize": {
+						"x": 370,
+						"y": 127,
+						"w": 425,
+						"h": 383
+					},
+					"frame": {
+						"x": 0,
+						"y": 383,
+						"w": 425,
+						"h": 383
+					}
+				},
+				{
+					"filename": "motociclista-entrada  (3)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 379
+					},
+					"spriteSourceSize": {
+						"x": 370,
+						"y": 131,
+						"w": 425,
+						"h": 379
+					},
+					"frame": {
+						"x": 0,
+						"y": 766,
+						"w": 425,
+						"h": 379
+					}
+				},
+				{
+					"filename": "motociclista-entrada  (4)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 374
+					},
+					"spriteSourceSize": {
+						"x": 370,
+						"y": 136,
+						"w": 425,
+						"h": 374
+					},
+					"frame": {
+						"x": 0,
+						"y": 1145,
+						"w": 425,
+						"h": 374
+					}
+				},
+				{
+					"filename": "motociclista-entrada  (5)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 374
+					},
+					"spriteSourceSize": {
+						"x": 370,
+						"y": 137,
+						"w": 425,
+						"h": 374
+					},
+					"frame": {
+						"x": 425,
+						"y": 0,
+						"w": 425,
+						"h": 374
+					}
+				},
+				{
+					"filename": "motociclista-entrada  (7)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 374
+					},
+					"spriteSourceSize": {
+						"x": 370,
+						"y": 137,
+						"w": 425,
+						"h": 374
+					},
+					"frame": {
+						"x": 425,
+						"y": 374,
+						"w": 425,
+						"h": 374
+					}
+				},
+				{
+					"filename": "motociclista-entrada  (6)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 373
+					},
+					"spriteSourceSize": {
+						"x": 370,
+						"y": 137,
+						"w": 425,
+						"h": 373
+					},
+					"frame": {
+						"x": 425,
+						"y": 748,
+						"w": 425,
+						"h": 373
+					}
+				},
+				{
+					"filename": "motociclista-proxima-ao-ponto-de-fuga (8)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 356
+					},
+					"spriteSourceSize": {
+						"x": 370,
+						"y": 154,
+						"w": 425,
+						"h": 356
+					},
+					"frame": {
+						"x": 425,
+						"y": 1121,
+						"w": 425,
+						"h": 356
+					}
+				},
+				{
+					"filename": "motociclista-distante-do-ponto-de-fuga (12)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 345
+					},
+					"spriteSourceSize": {
+						"x": 370,
+						"y": 165,
+						"w": 425,
+						"h": 345
+					},
+					"frame": {
+						"x": 850,
+						"y": 0,
+						"w": 425,
+						"h": 345
+					}
+				},
+				{
+					"filename": "motociclista-distante-do-ponto-de-fuga (13)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 423,
+						"h": 343
+					},
+					"spriteSourceSize": {
+						"x": 371,
+						"y": 166,
+						"w": 423,
+						"h": 343
+					},
+					"frame": {
+						"x": 850,
+						"y": 345,
+						"w": 423,
+						"h": 343
+					}
+				},
+				{
+					"filename": "motociclista-distante-do-ponto-de-fuga (14)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 423,
+						"h": 342
+					},
+					"spriteSourceSize": {
+						"x": 371,
+						"y": 169,
+						"w": 423,
+						"h": 342
+					},
+					"frame": {
+						"x": 850,
+						"y": 688,
+						"w": 423,
+						"h": 342
+					}
+				},
+				{
+					"filename": "motociclista-distante-do-ponto-de-fuga-ciclo (15)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 423,
+						"h": 342
+					},
+					"spriteSourceSize": {
+						"x": 371,
+						"y": 169,
+						"w": 423,
+						"h": 342
+					},
+					"frame": {
+						"x": 850,
+						"y": 1030,
+						"w": 423,
+						"h": 342
+					}
+				},
+				{
+					"filename": "motociclista-distante-do-ponto-de-fuga-ciclo (16)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 423,
+						"h": 342
+					},
+					"spriteSourceSize": {
+						"x": 371,
+						"y": 169,
+						"w": 423,
+						"h": 342
+					},
+					"frame": {
+						"x": 1273,
+						"y": 345,
+						"w": 423,
+						"h": 342
+					}
+				},
+				{
+					"filename": "motociclista-distante-do-ponto-de-fuga-ciclo (17)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 423,
+						"h": 342
+					},
+					"spriteSourceSize": {
+						"x": 371,
+						"y": 169,
+						"w": 423,
+						"h": 342
+					},
+					"frame": {
+						"x": 1275,
+						"y": 0,
+						"w": 423,
+						"h": 342
+					}
+				},
+				{
+					"filename": "motociclista-proxima-ao-ponto-de-fuga-ciclo (9)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 423,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 371,
+						"y": 173,
+						"w": 423,
+						"h": 337
+					},
+					"frame": {
+						"x": 1273,
+						"y": 687,
+						"w": 423,
+						"h": 337
+					}
+				},
+				{
+					"filename": "motociclista-proxima-ao-ponto-de-fuga-ciclo (10)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 423,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 371,
+						"y": 173,
+						"w": 423,
+						"h": 337
+					},
+					"frame": {
+						"x": 1273,
+						"y": 1024,
+						"w": 423,
+						"h": 337
+					}
+				},
+				{
+					"filename": "motociclista-proxima-ao-ponto-de-fuga-ciclo (11)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 423,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 371,
+						"y": 173,
+						"w": 423,
+						"h": 337
+					},
+					"frame": {
+						"x": 1273,
+						"y": 1361,
+						"w": 423,
+						"h": 337
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:3296f6e4719ab26b29877e578dfc2602:126419ee8aa6de49ec7c3a828c11dfb0:b7b4d063ff70272ea1e3aa6250c83f2f$"
+	}
+}

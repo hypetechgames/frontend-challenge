@@ -1,0 +1,267 @@
+.wall-street-game html {
+    font-weight: 500;
+}
+
+.wall-street-game .title-font {
+    
+}
+
+.wall-street-game {
+    background-image: radial-gradient(#161b28 30%, #0a0e13) !important;
+    background-size: cover !important;
+}
+
+.wall-street-game button.btn.min-h-8.max-h-10.rounded.grow.text-xl.btn-ghost.font-normal.border-gray-700 {
+    padding: 0 !important;
+    width: 100%;
+    border: none;
+}
+
+
+.wall-street-game .btn-ghost {
+    border: none;
+}
+
+.wall-street-game .bg-green-600.pointer-events-none.text-gray-100.min-w-\[32px\].min-h-\[32px\].rounded-sm.flex.justify-center.items-center {
+    background: #76ff0017;
+}
+
+.wall-street-game .bg-green-600.pointer-events-none.text-gray-100.min-w-\[32px\].min-h-\[32px\].rounded-sm.flex.justify-center.items-center {
+    background: #ff000017;
+    border-width: 0 5px 5px 5px;
+    border-color: transparent transparent #db4931 transparent;
+}
+
+.wall-street-game .bg-red-600.pointer-events-none.text-gray-100.min-w-\[32px\].min-h-\[32px\].rounded-sm.flex.justify-center.items-center {
+    background: #76ff0017;
+    border: 1px solid #7aff0033;
+    border-width: 0 5px 5px 5px;
+    border-color: transparent transparent #db4931 transparent;
+}
+
+.wall-street-game .soft-border-bottom {
+        border-bottom: 1px solid #ffffff1c;
+}
+
+.wall-street-game .btn.how-to-play {
+    padding: 3px 10px;
+    line-height: 0;
+    min-height: fit-content;
+    height: fit-content;
+    font-size: 12px;
+    font-weight: 700;
+    column-gap: 5px;
+    border-radius: 3px;
+    border: none;
+    background: #ffffff14;
+    text-transform: initial !important;
+}
+
+.wall-street-game .text-green-500 {
+    color: #2cab40 !important;
+}
+
+.wall-street-game .tabs {
+    background: #2323274d;
+}
+
+.wall-street-game button.btn.bg-blue-700.hover\:bg-blue-800.border-none.font-medium.min-h-8.max-h-10.rounded.text-gray-200.text-xs {
+    background: #ffffff0a;
+    border: 1px solid #ffffff2b;
+}
+
+.wall-street-game a.tab.tab-sm.h-8.flex.max\:w-\[33\%\].items-center.text-xs.font-medium.w-1\/2.rounded.bg-slate-600.text-gray-300 {
+    background: #ffffff0a;
+    border: 1px solid #ffffff14;
+}
+
+.wall-street-game a.tab {
+    font-weight: 400 !important;
+    font-size: 11px;
+}
+
+.wall-street-game button.bg-green-600.cursor-pointer.text-gray-100.min-w-\[32px\].min-h-\[32px\].rounded-sm.flex.justify-center.items-center {
+    background: #2cab401f;
+    border-radius: 50px;
+    border-width: 0 5px 5px 5px;
+    border-color: transparent transparent #2cab40 transparent;
+}
+
+.wall-street-game button.bg-red-600.cursor-pointer.text-gray-100.min-w-\[32px\].min-h-\[32px\].rounded-sm.flex.justify-center.items-center {
+    background: #ab2c2c1f;
+    border: 1px solid #ff000036;
+    border-radius: 50px;
+    border-width: 0 5px 5px 5px;
+    border-color: transparent transparent #db4931 transparent;
+}
+
+.wall-street-game button.bg-yellow-400.cursor-pointer.min-w-\[32px\].min-h-\[32px\].rounded-sm.flex.justify-center.items-center {
+    background: #ffffff1f;
+    border-radius: 50px;
+    border-width: 0 5px 5px 5px;
+    border-color: transparent transparent #ffffff9c transparent;
+}
+
+
+.wall-street-game .bg-buy {
+    background: linear-gradient(45deg, #2cab4014, transparent);
+    opacity: 0.6;
+    border: 1px solid transparent;
+    border-radius: 10px;
+}
+
+.wall-street-game .bg-buy.active {
+    border: 1px solid #56e96d6b;
+    opacity: 1;
+}
+
+.wall-street-game .bg-buy:hover {
+    background: linear-gradient(45deg, #2cab40d4, transparent);
+    opacity: 1;
+    border: 1px solid #56e96d6b;
+}
+
+.wall-street-game .bg-bull {
+    background: linear-gradient(45deg, #ffffff14, transparent);
+    opacity: 0.6;
+    border-radius: 10px;
+    border: 1px solid transparent;
+}
+
+.wall-street-game .bg-bull:hover {
+    background: linear-gradient(45deg, #ffffff4f, transparent);
+    opacity: 1;
+    border: 1px solid #ffffff6b;
+}
+
+.wall-street-game .bg-bull.active {
+    border: 1px solid #ffffff6b;
+    opacity: 1;
+}
+
+.wall-street-game .bg-sell {
+    background: linear-gradient(45deg, #ff000012, transparent);
+    opacity: 0.6;
+    border-radius: 10px;
+    border: 1px solid transparent;
+}
+
+.wall-street-game .bg-sell.active {
+    border: 1px solid #ff4b4b6b;
+    opacity: 1;
+}
+
+.wall-street-game .bg-sell:hover {
+    background: linear-gradient(45deg, #db4931, transparent);
+    opacity: 1;
+    border: 1px solid #ff4b4b6b;
+}
+
+.wall-street-game .border-1 {
+    border: 1px dashed #ffffff3b !important;
+}
+
+.wall-street-game .bg-blue-600.h-full.transition-all.duration-100.rounded-md {
+    background: #2cab40;
+    border-radius: 4px !important;
+}
+
+.wall-street-game .w-full.relative.flex.items-center.border.border-gray-500.bg-gray-600.bg-opacity-50.border-opacity-50.rounded-md.h-6.dark\:bg-gray-700 {
+    border: none;
+    padding: 4px;
+    height: 30px;
+    max-width: 300px;
+    border-radius: 3px;
+    background: #23242e;
+}
+
+.wall-street-game small.absolute.w-full.h-full.font-semibold.text-center.text-xs.pointer-events-none.flex.items-center.justify-center.text-gray-200.uppercase {
+    font-size: 10px !important;
+}
+
+.wall-street-game .menu.menu-compact {
+    background: #1e1f26;
+    border-radius: 15px
+
+}
+
+
+.wall-street-game .last-odds-component {
+    background: #121319;
+}
+
+.wall-street-game .bet-btn {
+    background: #2cab40;
+    border-bottom: 5px solid #00000047;
+    font-size: 16px;
+    transition: all .2s ease-out;
+    border-radius: 10px;
+}
+
+.wall-street-game .cancel-btn {
+    background: #a52222;
+    border-bottom: 5px solid #00000047;
+    font-size: 16px;
+    transition: all .2s ease-out;
+    border-radius: 10px;
+}
+
+.wall-street-game .bet-btn:hover {
+    border-bottom: 0px;
+    transition: all .2s ease-out;
+}
+
+.wall-street-game .backdrop {
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top:0px;
+    position: absolute;
+    transition: all 1s ease-out;
+    background: #161a28bf;
+}
+
+.wall-street-game .z-100 {
+    z-index: 100 !important;
+}
+
+.wall-street-game h1.text-sm.uppercase.font-medium.text-white.drop {
+    font-size: 22px;
+    transform: skew(-5deg);
+    font-weight: 100;
+    text-shadow: -2px 2px 20px black;
+    opacity: 1;
+    animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+    0% {
+        opacity: 0.5;
+    }
+
+    70% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0.5;
+    }
+}
+
+.wall-street-game .loading-gif {
+    position: relative;
+    top: -10px;
+    transform: skew(5deg);
+    filter: grayscale(1);
+}
+
+.wall-street-game input#valueInput {
+    background: #ffffff12 !important;
+}
+
+.wall-street-game .only-stroke {
+    color: #1a1f2f;
+  -webkit-text-fill-color: #1a1f2f; /* Will override color (regardless of order) */
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
+}
