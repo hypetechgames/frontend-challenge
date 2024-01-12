@@ -1,9 +1,10 @@
-import React from 'react'
+import React, { ReactNode } from 'react'
 
 export type Tab = {
   key: string
   title: string
-  color: string
+  color?: string
+  icon?: ReactNode
 }
 
 type Props = {
@@ -57,7 +58,10 @@ export default function Tabs({
             }`}
             onClick={() => toggle(tab.key)}
           >
-           {tab.title}
+            <span className="flex gap-2">
+              <span>{tab.icon}</span>
+              <span>{tab.title}</span>
+            </span>
           </a>
         )
       })}

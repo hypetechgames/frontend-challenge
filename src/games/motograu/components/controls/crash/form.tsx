@@ -231,7 +231,7 @@ export default function CrashForm({
                       className="btn btn-ghost min-h-0 flex-1 w-full h-full rounded text-xl font-normal disabled:bg-gray-700 disabled:bg-opacity-30 border-gray-700 border-opacity-40"
                     >
                       {/* &frac12; */}
-                      <span className='text-base md:text-2xl text-blue-600'>+</span>
+                      <span><PlusIcon className="h-4.5 w-4 text-blue-500" /></span>
                     </button>
                   </div>
 
@@ -246,7 +246,7 @@ export default function CrashForm({
                       className="btn btn-ghost min-h-0 grow w-full h-full rounded capitalize text-normal font-normal disabled:bg-gray-700 disabled:bg-opacity-30 border-gray-700 border-opacity-40"
                     >
                       {/* 2x */}
-                      <span className='text-base xl:text-3xl text-red-600'>-</span>
+                      <span><MinusIcon className='h-4.5 w-4 text-red-500' /></span>
                     </button>
                   </div>
                 </div>
