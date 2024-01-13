@@ -24,10 +24,10 @@ export default function HistoryTab() {
       <section className="py-3 w-full">
         <div className="flex justify-between items-center">
           <div className="flex items-center">
-            <div className="text-sm">{betsHistory.length}x</div>
+            <div className="text-sm text-blue-600">{betsHistory.length}x</div>
           </div>
 
-          <span className="text-sm">R$ {sum(betsHistory)}</span>
+          <span className="text-sm text-blue-600">R$ {sum(betsHistory)}</span>
         </div>
       </section>
       <Header />

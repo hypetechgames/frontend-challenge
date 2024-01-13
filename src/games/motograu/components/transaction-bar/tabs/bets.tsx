@@ -6,9 +6,8 @@ import { CrashGameContext } from '@/core/providers/games/crash-game.provider'
 import Header from '../lists/bets/header'
 
 export default function BetsTab() {
-  const { registeredBets, getRegisteredBets, playerName } =
+  const { registeredBets, getRegisteredBets } =
     useContext(CrashGameContext)
-  // console.log("qual nome vem:", playerName)
   const sum = (bets = []) => {
     let sum = 0
     bets.map((bet) => {
@@ -36,7 +35,7 @@ export default function BetsTab() {
 
           <div>
             <h3 className='text-xs mb-1'>TOTAL APOSTADO</h3>
-            <span className="text-sm">R$ {sum(registeredBets)}</span>
+            <span className="text-sm text-blue-600">R$ {sum(registeredBets)}</span>
           </div>
 
         </div>

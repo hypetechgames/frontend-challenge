@@ -228,7 +228,7 @@ export default function CrashForm({
                         transaction.status !=
                         TransactionStatus.UNREGISTERED
                       }
-                      className="btn btn-ghost min-h-0 flex-1 w-full h-full rounded text-xl font-normal disabled:bg-gray-700 disabled:bg-opacity-30 border-gray-700 border-opacity-40"
+                      className="btn hover:bg-blue-900 btn-ghost min-h-0 flex-1 w-full h-full rounded text-xl font-normal disabled:bg-gray-700 disabled:bg-opacity-30 border-blue-700 border-opacity-40"
                     >
                       {/* &frac12; */}
                       <span><PlusIcon className="h-4.5 w-4 text-blue-500" /></span>
@@ -243,7 +243,7 @@ export default function CrashForm({
                         transaction.status !=
                         TransactionStatus.UNREGISTERED
                       }
-                      className="btn btn-ghost min-h-0 grow w-full h-full rounded capitalize text-normal font-normal disabled:bg-gray-700 disabled:bg-opacity-30 border-gray-700 border-opacity-40"
+                      className="btn hover:bg-red-900 btn-ghost min-h-0 grow w-full h-full rounded capitalize text-normal font-normal disabled:bg-gray-700 disabled:bg-opacity-30 border-red-700 border-opacity-40"
                     >
                       {/* 2x */}
                       <span><MinusIcon className='h-4.5 w-4 text-red-500' /></span>
@@ -290,7 +290,7 @@ export default function CrashForm({
                 disabled={
                   transaction.status != TransactionStatus.UNREGISTERED
                 }
-                className="btn p-2 btn-ghost min-h-0 grow w-full h-full rounded capitalize text-normal font-normal disabled:bg-gray-700 disabled:bg-opacity-30 border-gray-700 border-opacity-40 "
+                className="btn hover:bg-blue-900 p-2 btn-ghost min-h-0 grow w-full h-full rounded capitalize text-normal font-normal disabled:bg-gray-700 disabled:bg-opacity-30 border-blue-700 border-opacity-40 "
               >
                 5,00
               </button>
@@ -300,7 +300,7 @@ export default function CrashForm({
                 disabled={
                   transaction.status != TransactionStatus.UNREGISTERED
                 }
-                className="btn p-2 btn-ghost min-h-0 grow w-full h-full rounded capitalize text-normal font-normal disabled:bg-gray-700 disabled:bg-opacity-30 border-gray-700 border-opacity-40"
+                className="btn hover:bg-blue-900 p-2 btn-ghost min-h-0 grow w-full h-full rounded capitalize text-normal font-normal disabled:bg-gray-700 disabled:bg-opacity-30 border-blue-700 border-opacity-40"
               >
                 10,00
               </button>
@@ -313,7 +313,7 @@ export default function CrashForm({
                 disabled={
                   transaction.status != TransactionStatus.UNREGISTERED
                 }
-                className="btn p-2 btn-ghost min-h-0 grow w-full h-full rounded capitalize text-normal font-normal disabled:bg-gray-700 disabled:bg-opacity-30 border-gray-700 border-opacity-40"
+                className="btn hover:bg-blue-900 p-2 btn-ghost min-h-0 grow w-full h-full rounded capitalize text-normal font-normal disabled:bg-gray-700 disabled:bg-opacity-30 border-blue-700 border-opacity-40"
               >
                 20,00
               </button>
@@ -323,7 +323,7 @@ export default function CrashForm({
                 disabled={
                   transaction.status != TransactionStatus.UNREGISTERED
                 }
-                className="btn p-2 btn-ghost min-h-0 grow w-full h-full rounded capitalize text-normal font-normal disabled:bg-gray-700 disabled:bg-opacity-30 border-gray-700 border-opacity-40"
+                className="btn hover:bg-blue-900 p-2 btn-ghost min-h-0 grow w-full h-full rounded capitalize text-normal font-normal disabled:bg-gray-700 disabled:bg-opacity-30 border-blue-700 border-opacity-40"
               >
                 50,00
               </button>
@@ -345,7 +345,7 @@ export default function CrashForm({
           }
         >
           <button
-            className={`btn border-2 hover:border-gray-300 text-[22px] hover:text-[24px] rounded-[20px] border-gray-400 ${getBackgroundColor(
+            className={`btn border-2 hover:border-gray-300 text-[22px] hover:text-[24px] rounded-[20px] border-blue-600 ${getBackgroundColor(
               color
             )} flex flex-col px-0 text-white h-full w-full`}
           >

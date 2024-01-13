@@ -9,16 +9,16 @@ type Props = {
 }
 
 export default function ListItem({ data, showRoundInfo }: Props) {
-  const isGreen = data.outcome == 'win'
+  const isBlue = data.outcome == 'win'
   const isRed = data.outcome == 'lose'
 
   return (
     <>
       <div
         className={`justify-between flex items-center rounded mb-1 border text-xs border-transparent p-1.5 gap-1 ${
-          isGreen
-            ? 'border-green-700 bg-green-600 bg-opacity-20'
-            : ' border-gray-700 bg-gray-600 bg-opacity-20'
+          isBlue
+            ? 'border-blue-700 bg-blue-600 bg-opacity-20'
+            : 'border-gray-700 bg-gray-600 bg-opacity-20'
         } `}
       >
         <h1 className="w-1/4 flex gap-3 items-center">
@@ -29,8 +29,8 @@ export default function ListItem({ data, showRoundInfo }: Props) {
         </h1>
         <h1 className="w-1/4 flex items-center gap-2">
           <If condition={data.outcome == 'win'}>
-            <div className="bg-green-500 rounded-full text-xs h-5 flex mx-auto items-center justify-center text-gray-100 w-12 text-center">
-              {data.payout}x
+            <div className="bg-blue-600 rounded-full text-xs h-5 flex mx-auto items-center justify-center text-gray-100 w-12 text-center">
+              x {data.payout}
             </div>
           </If>
         </h1>

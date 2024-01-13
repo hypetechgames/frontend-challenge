@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React from 'react'
 
 type Props = {
   value: number
@@ -20,7 +20,7 @@ const getBackgroundColor = (color: string) => {
     case 'red':
       return 'bg-red-700'
     case 'pink':
-      return 'bg-[#C5F700]'
+      return 'bg-pink-700'
     case 'rose':
       return 'bg-rose-700'
     case 'gray':
@@ -28,29 +28,28 @@ const getBackgroundColor = (color: string) => {
   }
 }
 
-function ProgressBar(props) {
-  const [percentage, setPercentage] = useState('100%')
-
-  useEffect(() => {
-    if (props.value === 10) setPercentage('100%')
-    else if (props.value < 10) setPercentage('0%')
-  }, [props.value])
-
+export default function ProgressBar({
+  max,
+  value,
+  color,
+  label = 'empinar em',
+}: Props) {
   return (
-    <div className="w-60 sm:w-96 bg-black relative bg-opacity-20 rounded-full">
+    <div className="w-full relative flex items-center border border-gray-500 bg-gray-600 bg-opacity-50 border-opacity-50 rounded-md h-6 dark:bg-gray-700 gradient-container-grau">
       <div
-        className="bg-[#ff1e4c] flex items-center text-xs font-medium text-blue-100 leading-none rounded-full h-6"
+        className={`${getBackgroundColor(
+          color
+        )} h-full transition-all duration-100 rounded-md`}
         style={{
-          width: percentage,
-          transition: 'linear',
-          transitionDuration: '10000ms',
+          width: `${(value / max) * 100}%`,
+          transitionTimingFunction: 'ease',
+          transitionDuration: '990ms',
         }}
       ></div>
-      <span className="top-1 left-[17%] sm:left-[30%] lg:left-[35%] uppercase absolute text-xs text-white font-bold">
-        Próxima rodada
-      </span>
+     
+      <small className="absolute w-full h-full font-semibold text-center text-xs  pointer-events-none flex items-center justify-center text-gray-200 uppercase">
+        {label} {Math.abs(value)}
+      </small>
     </div>
   )
 }
-
-export default ProgressBar

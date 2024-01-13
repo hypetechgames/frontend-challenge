@@ -53,7 +53,7 @@ export default function Tabs({
             key={tab.key}
             className={`tab tab-sm flex max:w-[50%]   items-center text-xs font-medium ${size} ${
               active == tab.key
-                ? `rounded bg-gray-700 bg-opacity-25 ${tab.color ? tab.color : 'text-gray-300'}`
+                ? `rounded bg-blue-700 bg-opacity-25 ${tab.color ? tab.color : 'text-blue-200'}`
                 : ''
             }`}
             onClick={() => toggle(tab.key)}

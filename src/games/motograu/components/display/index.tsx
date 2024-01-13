@@ -1,8 +1,10 @@
 import React, { useContext, useEffect, useState } from 'react'
-import ProgressBar from '@/core/components/progress-bar'
+// import ProgressBar from '@/core/components/progress-bar'
 import If from '@/core/components/conditions/if'
 import { GameStatus } from '@/core/providers/enums/game-status'
 import { CrashGameContext } from '@/core/providers/games/crash-game.provider'
+import ProgressBar from "../progress-bar"
+import { FaceFrownIcon } from '@heroicons/react/24/outline'
 
 type Props = {
   color: string
@@ -29,7 +31,7 @@ export default function Display({ color }: Props) {
       <If condition={gameStatus == GameStatus.RUNNING}>
         <div className="relative flex justify-center items-center">
           <h1
-            className="text-6xl md:text-6xl lg:text-6xl font-bold text-gray-200 drop-shadow"
+            className="text-6xl md:text-6xl lg:text-6xl font-bold text-blue-500 drop-shadow"
             style={{
               WebkitTextStroke: '1px #000',
             }}
@@ -54,12 +56,12 @@ export default function Display({ color }: Props) {
 
       <If condition={gameStatus == GameStatus.GAME_OVER}>
         <h1
-          className="text-2xl sm:text-2xl text-gray-200 font-extrabold uppercase "
+          className="flex justify-center items-center gap-1 text-2xl sm:text-2xl text-blue-600 font-extrabold uppercase"
           style={{
             WebkitTextStroke: '1px #000',
           }}
         >
-          O piloto caiu!
+          O piloto caiu! <FaceFrownIcon className="h-7 w-7" />
         </h1>
         <h1
           className={`text-6xl md:text-6xl lg:text-6xl font-bold text-red-600 drop-shadow`}
