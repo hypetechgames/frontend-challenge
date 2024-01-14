@@ -48,7 +48,7 @@ Este projeto contém a aplicação das interfaces dos jogo **Motograu**:
 
 ### 1. Clone o repositório:
 ```bash
-git clone https://github.com/hypetechgames/frontend-challenge
+git clone https://github.com/ViniciusDuarte17/frontend-challenge.git
 ```
 
 ### 2. Instale as dependências e inicie o projeto
