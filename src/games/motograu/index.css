@@ -20,3 +20,6 @@
   background: linear-gradient(133deg,#000000 0%,#1c101d 50%,#462948 100%)!important
  }
  
+ .gradient-container-grau {
+  background: linear-gradient(90deg, #000000 0%,#1c101d 50%,#462948 100%)!important;
+}
