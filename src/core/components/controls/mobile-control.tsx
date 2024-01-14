@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-import CrashForm from './crash/form'
+import CrashForm from '../../../games/motograu/widgets/crash/form'
 import If from '@/core/components/conditions/if'
 
 type Props = {

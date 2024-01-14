@@ -13,7 +13,7 @@ export default function Display({ color }: Props) {
     useContext<any>(CrashGameContext)
 
   return (
-    <div className="absolute top-0 pointer-events-none left-0 flex flex-col gap-3 justify-center items-center w-full h-full">
+    <div className="pointer-events-none flex flex-col gap-3 justify-center items-center h-full">
       <If condition={gameStatus == GameStatus.IDLE}>
         <div className="w-full flex flex-col items-center justify-center">
           <div className="w-44">
@@ -54,7 +54,7 @@ export default function Display({ color }: Props) {
 
       <If condition={gameStatus == GameStatus.GAME_OVER}>
         <h1
-          className="text-2xl sm:text-2xl text-gray-200 font-extrabold uppercase "
+          className="text-2xl sm:text-2xl text-gray-200 font-extrabold uppercase drop-shadow"
           style={{
             WebkitTextStroke: '1px #000',
           }}

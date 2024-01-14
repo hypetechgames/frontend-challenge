@@ -33,23 +33,23 @@ module.exports = {
     themes: [
       {
         darker: {
-          primary: '#28A909',
+          primary: '#666666',
 
-          secondary: '#064e3b',
+          secondary: '#CCCCCC',
 
           accent: '#eab308',
 
-          neutral: '#404040',
+          neutral: '#FFFFFF',
 
-          'base-100': '#0b0b0b',
+          'base-100': '#000000',
 
           info: '#22D3EE',
 
-          success: '#28A909',
+          success: '#1b7f11',
 
-          warning: '#facc15',
+          warning: '#d8e000',
 
-          error: '#cb0119',
+          error: '#cc2d19',
         },
       },
     ],

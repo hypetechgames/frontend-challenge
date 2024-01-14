@@ -47,6 +47,7 @@ export default function CrashGameProvider({
     session.messages
   )
   const [playerName, setplayerName] = useState<string>('')
+  const [showChat, setShowChat] = useState(true)
 
   const updateMultiplier = (value) => {
     setMultiplier(value)
@@ -453,7 +454,9 @@ export default function CrashGameProvider({
         playerName,
         soundEnabled,
         setSoundEnabled,
-        soundClick
+        soundClick,
+        showChat,
+        setShowChat,
       }}
     >
       {children}
