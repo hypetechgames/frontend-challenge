@@ -13,6 +13,7 @@ import { GameStatus } from '@/core/providers/enums/game-status'
 import Navbar from '@/core/components/navbar'
 import Controls from './components/controls/crash-control'
 import TransactionBar from './components/transaction-bar'
+import { ChatVisible } from './components/chat-visible'
 
 function HomePage() {
   const { setLoading } = useContext<any>(SessionContext)
@@ -58,6 +59,9 @@ function HomePage() {
                   ></iframe>
                   <div className="transform sm:translate-y-[-390px] translate-y-[-200px]">
                     <Display color={'blue'}/>
+                  </div>
+                  <div className='absolute bottom-0 right-3'>
+                    <ChatVisible />
                   </div>
                 </div>
 
